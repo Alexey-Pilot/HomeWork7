@@ -1,0 +1,15 @@
+C:\Users\alexr\OneDrive\Рабочий стол\HomeWork7\HomeWork7\extra3\obj\Debug\net6.0\extra3.csproj.AssemblyReference.cache
+C:\Users\alexr\OneDrive\Рабочий стол\HomeWork7\HomeWork7\extra3\obj\Debug\net6.0\extra3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexr\OneDrive\Рабочий стол\HomeWork7\HomeWork7\extra3\obj\Debug\net6.0\extra3.AssemblyInfoInputs.cache
+C:\Users\alexr\OneDrive\Рабочий стол\HomeWork7\HomeWork7\extra3\obj\Debug\net6.0\extra3.AssemblyInfo.cs
+C:\Users\alexr\OneDrive\Рабочий стол\HomeWork7\HomeWork7\extra3\obj\Debug\net6.0\extra3.csproj.CoreCompileInputs.cache
+C:\Users\alexr\OneDrive\Рабочий стол\HomeWork7\HomeWork7\extra3\bin\Debug\net6.0\extra3.exe
+C:\Users\alexr\OneDrive\Рабочий стол\HomeWork7\HomeWork7\extra3\bin\Debug\net6.0\extra3.deps.json
+C:\Users\alexr\OneDrive\Рабочий стол\HomeWork7\HomeWork7\extra3\bin\Debug\net6.0\extra3.runtimeconfig.json
+C:\Users\alexr\OneDrive\Рабочий стол\HomeWork7\HomeWork7\extra3\bin\Debug\net6.0\extra3.dll
+C:\Users\alexr\OneDrive\Рабочий стол\HomeWork7\HomeWork7\extra3\bin\Debug\net6.0\extra3.pdb
+C:\Users\alexr\OneDrive\Рабочий стол\HomeWork7\HomeWork7\extra3\obj\Debug\net6.0\extra3.dll
+C:\Users\alexr\OneDrive\Рабочий стол\HomeWork7\HomeWork7\extra3\obj\Debug\net6.0\refint\extra3.dll
+C:\Users\alexr\OneDrive\Рабочий стол\HomeWork7\HomeWork7\extra3\obj\Debug\net6.0\extra3.pdb
+C:\Users\alexr\OneDrive\Рабочий стол\HomeWork7\HomeWork7\extra3\obj\Debug\net6.0\extra3.genruntimeconfig.cache
+C:\Users\alexr\OneDrive\Рабочий стол\HomeWork7\HomeWork7\extra3\obj\Debug\net6.0\ref\extra3.dll
